@@ -1,7 +1,6 @@
 package joel.poker.server;
 
 import joel.poker.network.*;
-import me.lammazz.poker.network.*;
 
 import java.util.ArrayList;
 import java.util.Iterator;

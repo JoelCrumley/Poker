@@ -11,7 +11,6 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 import javafx.stage.WindowEvent;
 import joel.poker.network.*;
-import me.lammazz.poker.network.*;
 
 import java.util.*;
 

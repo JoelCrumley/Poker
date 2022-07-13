@@ -15,7 +15,6 @@ import joel.poker.client.PokerClient;
 
 import java.io.FileNotFoundException;
 
-
 public class Poker extends Application implements EventHandler<ActionEvent> {
 
     private final int port = 2612;
