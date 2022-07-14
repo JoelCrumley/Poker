@@ -7,3 +7,6 @@ This repo was created in July 2022 to make the project include JavaFX as a libra
 Main Class: joel.poker.launch.Poker
 
 VM Launch Options: --module-path "lib\javafx\lib" --add-modules javafx.controls,javafx.fxml
+
+
+![Showcase Game](https://raw.githubusercontent.com/Lammazz/Poker/master/src/res/ShowcaseGame.png)
